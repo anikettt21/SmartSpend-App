@@ -1,5 +1,9 @@
 # SpendSmart — Personal Expense Tracker
 
+[![Download Latest APK](https://img.shields.io/badge/Download-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/anikettt21/SmartSpend-App/releases/latest)
+
+> 📲 **Mobile Users:** [Click here to go directly to the Download page!](https://github.com/anikettt21/SmartSpend-App/releases/latest)
+
 SpendSmart is a simple, beautiful, and fully offline personal expense tracker designed to help you take control of your finances. 
 
 ## 🌟 Why use SpendSmart?
@@ -33,6 +37,12 @@ You can install SpendSmart directly on your Android device using the provided AP
 3. Your phone may prompt you to **Allow installations from "Unknown Sources"**. Please enable this in your device settings to proceed. (This is a standard security prompt for apps installed outside the Google Play Store).
 4. Follow the on-screen instructions to install the app.
 5. Open SpendSmart and start tracking your expenses!
+
+---
+
+## 📸 Screenshots
+
+*(Tip: You can upload screenshots of your app to your GitHub repository and link them here to show users how it looks!)*
 
 ---
 
