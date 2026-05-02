@@ -1,6 +1,6 @@
 # SpendSmart
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/anikettt21/SmartSpend-App/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/anikettt21/SmartSpend-App/releases/latest) [![Downloads](https://img.shields.io/github/downloads/anikettt21/SmartSpend-App/total?style=for-the-badge&logo=github&color=blue)](https://github.com/anikettt21/SmartSpend-App/releases)
 
 A **100% offline**, privacy-first personal expense tracker for Android. No ads, no accounts, no data collection — your finances stay on your device.
 
