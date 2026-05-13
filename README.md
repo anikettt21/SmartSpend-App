@@ -6,21 +6,22 @@ A **100% offline**, privacy-first personal expense tracker for Android. No ads, 
 
 ## Features
 
-- **Dashboard** — Total spent, daily average, income, and budget progress at a glance
-- **Budget Tracking** — Monthly and per-category budgets with visual progress
-- **Custom Categories** — Create categories with emoji icons
-- **Multi-Account** — Track across Cash, UPI, and bank accounts
-- **Analysis** — Category breakdowns, calendar heatmap, and spending streaks
-- **Group Expenses** — Split costs with friends and family
-- **Recurring Expenses** — Auto-log subscriptions and bills
-- **Reminders** — Task system with persistent notifications and filters
-- **CSV Export** — Export full transaction history
-- **Home Widget** — Quick-glance balance on your home screen
-- **Smart Notifications** — Daily summary, budget alerts, bill reminders, weekly reports
+- **Auto-Tracking Engine** — Automatically detects expenses from SMS and notifications with a manual verification queue for 100% accuracy.
+- **Glassmorphism UI** — A modern, editorial-style interface designed for a fluid and premium user experience.
+- **Serverless Backups** — Securely sync your data using your own Google Drive 'AppData' folder—no middleman, no accounts, total sovereignty.
+- **Dashboard & Analytics** — Real-time budget progress, spending streaks, and interactive spending heatmaps.
+- **Account Management** — Seamlessly track across Cash, UPI, Bank Accounts, and Credit Cards with bill payment reminders.
+- **Privacy & Security** — Biometric authentication and 100% offline-first operation. No ads, no tracking, no data collection.
+- **Smart Tools** — Group expense splitting, recurring subscriptions, CSV exports, and interactive home screen widgets.
 
 ## Tech
 
-Kotlin · MVVM · Room · Material Design 3 · WorkManager · Min SDK 24
+- **Core:** Kotlin, Coroutines, Flow
+- **Architecture:** MVVM, Clean Architecture
+- **Database:** Room (SQLite)
+- **Background Tasks:** WorkManager
+- **UI:** Material Design 3, Custom Glassmorphism Theme
+- **Integration:** Google Drive REST API (OAuth2)
 
 ## Install
 
